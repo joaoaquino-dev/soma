@@ -71,12 +71,15 @@ docs/           Guia de uso e capturas de tela
 - Não há edição offline persistente nem pagamentos parciais.
 - O "saldo previsto" é um planejamento, não o saldo de uma conta bancária.
 - O e-mail padrão do Supabase limita o envio a poucos destinatários. Para abrir cadastros a outras pessoas, seria preciso configurar um SMTP próprio.
-- Executar os testes no workflow de CI antes do deploy.
 - Normalizar o modelo de dados em tabelas relacionais.
 
 ## Como o projeto foi feito
 
 Desenvolvo o Soma com apoio de IA. Eu defino as regras (como as contas passam de um mês para o outro, por exemplo), uso o app no celular, testo o comportamento e reviso as mudanças.
+
+## Licença
+
+Distribuído sob a licença [MIT](LICENSE).
 
 ## Autor
 
